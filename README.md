@@ -1,2 +1,2 @@
 # JavaProxyServer
-Just a simple proxy server
+Just a simple proxy server, tested by using Firefox
